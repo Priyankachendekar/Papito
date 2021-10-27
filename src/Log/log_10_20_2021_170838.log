@@ -1,0 +1,8 @@
+2021-Oct-20 17:08:35,168 [main] com.testingshastra.uitests.SignupPageTests 
+  INFO  url is launched :https://ijmeet.com/
+2021-Oct-20 17:08:37,115 [main] com.testingshastra.uitests.SignupPageTests 
+  INFO  Click on register button
+2021-Oct-20 17:08:37,986 [main] com.testingshastra.uitests.SignupPageTests 
+  INFO  Switched inside the frame
+2021-Oct-20 17:08:38,295 [main] com.testingshastra.uitests.SignupPageTests 
+  INFO  Back to parent frame
